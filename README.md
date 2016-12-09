@@ -10,7 +10,13 @@ work.
 There is only support for opening and sending data, it is assumed that the
 recording of commands is done using another application.
 
+To import use _one_ of these methods:
 
+* git submodule then import: `git submodule add https://github.com/aaronps/irmoduleyofeng`
+* download the code then import
+* import a generated `aar` file
+
+then:
 
 ```java
 // *this* is an android.content.Context, for example, Activity
