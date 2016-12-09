@@ -31,4 +31,4 @@ if ( mIRModule.open() )
 
 ```
 
-Demo @ [IRModule Yofeng Demo](://github.com/aaronps/irmoduleyofeng-demo).
+Demo @ [IRModule Yofeng Demo](https://github.com/aaronps/irmoduleyofeng-demo).
