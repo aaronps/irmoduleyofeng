@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.aaronps.irmodule">
+
+    <uses-feature android:name="android.hardware.usb.host" />
+</manifest>
